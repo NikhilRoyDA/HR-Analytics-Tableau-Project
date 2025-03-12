@@ -26,7 +26,7 @@ Through interactive visualizations, this dashboard provides clear insights into 
 ---
 
 ## 📂 Project Files  
-📌 `HR_Analytics_Dashboard.twbx` – Tableau project file  
+📌 `HR_Analytics_Dashboard.twbx` – [Tableau project file](https://github.com/NikhilRoyDA/HR-Analytics-Tableau-Project/blob/main/HR%20Analytics%20Dashboard.twbx)
 📌 `Dataset.csv` – Processed dataset used in the dashboard  
 📌 `HR_Dashboard_Image.png` – ![HR Analytics Dashboard Image](https://github.com/user-attachments/assets/ea50c2eb-75a4-4d9d-85db-433c0546ffa2)
 📌 `README.md` – Documentation (this file)  
