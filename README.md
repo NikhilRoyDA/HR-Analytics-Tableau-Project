@@ -32,6 +32,9 @@ Through interactive visualizations, this dashboard provides clear insights into 
 📌 `README.md` – Documentation (this file)  
 
 ---
+## 🔗 Connect & Explore  
+- **Portfolio**: [DataSciencePortfol.io](https://www.datascienceportfol.io/nikhilroy744)  
+- **LinkedIn**: [Nikhil Kumar Roy](https://www.linkedin.com/in/nikhil-kumar-roy/)  
 
 ## 🚀 How to Use  
 1️⃣ **Clone the repository** or **Download the files**  
