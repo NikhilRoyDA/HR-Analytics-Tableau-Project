@@ -27,9 +27,11 @@ Through interactive visualizations, this dashboard provides clear insights into 
 
 ## 📂 Project Files  
 📌 `HR_Analytics_Dashboard.twbx` – [Tableau project file](https://github.com/NikhilRoyDA/HR-Analytics-Tableau-Project/blob/main/HR%20Analytics%20Dashboard.twbx)
-📌 `Dataset.csv` – Processed dataset used in the dashboard  
+
+📌 `Dataset.csv` – [Processed dataset](https://github.com/NikhilRoyDA/HR-Analytics-Tableau-Project/blob/main/HR%20Data.xlsx)
+
 📌 `HR_Dashboard_Image.png` – ![HR Analytics Dashboard Image](https://github.com/user-attachments/assets/ea50c2eb-75a4-4d9d-85db-433c0546ffa2)
-📌 `README.md` – Documentation (this file)  
+
 
 ---
 ## 🔗 Connect & Explore  
@@ -41,10 +43,4 @@ Through interactive visualizations, this dashboard provides clear insights into 
 2️⃣ **Open `HR_Analytics_Dashboard.twbx` in Tableau**  
 3️⃣ **Explore the dashboard** – Use interactive filters to analyze insights  
 
----
-
-## 📺 Video Reference  
-🔗 [YouTube Link] (Insert the tutorial link)  
-
----
 
