@@ -30,7 +30,7 @@ Through interactive visualizations, this dashboard provides clear insights into 
 
 📌 `Dataset.csv` – [Processed dataset](https://github.com/NikhilRoyDA/HR-Analytics-Tableau-Project/blob/main/HR%20Data.xlsx)
 
-📌 `HR_Dashboard_Image` – [Click here](https://github.com/NikhilRoyDA/HR-Analytics-Tableau-Project/blob/main/HR%20Analytics%20Dashboard%20Image.png)
+📌 `Dashboard_Insights` – [Click here](https://github.com/NikhilRoyDA/HR-Analytics-Tableau-Project/blob/main/HR%20Analytics%20Dashboard%20Image.png)
 
 ![HR Analytics Dashboard Image](https://github.com/user-attachments/assets/ea50c2eb-75a4-4d9d-85db-433c0546ffa2)
  
